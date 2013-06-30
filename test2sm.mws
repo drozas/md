@@ -1,0 +1,125 @@
+{VERSION 3 0 "IBM INTEL NT" "3.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 }{CSTYLE "" -1 256 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 257 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 258 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 259 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 261 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 262 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 263 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 264 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 265 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 266 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 267 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 268 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 269 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 270 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 271 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Headi
+ng 1" 0 3 1 {CSTYLE "" -1 -1 "" 1 18 0 0 0 0 0 1 0 0 0 0 0 0 0 }1 0 0 
+0 6 6 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {SECT 0 {PARA 3 "" 0 "" {TEXT -1 31 "Cuestiones sobre la pr
+\341ctica 2:" }{TEXT 256 3 "   " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 42 "1.  Los n\372meros enteros 7125014
+ y 9858098:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 37 "a) Son relativamen
+te primos entre s\355." }}{PARA 0 "" 0 "" {TEXT -1 32 "b) Tiene dos di
+visores comunes. " }}{PARA 0 "" 0 "" {TEXT -1 30 "c) Tienen 4 divisore
+s comunes." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "restart; with
+(numtheory):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "ifactor(712
+5014);ifactor(9858098); igcd(7125014,9858098);" }{TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "La respuesta correcta es la c)." }
+}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 34 "2. Dado el sistema de congruencias" }}{PARA 0 "" 0 "" {TEXT -1 
+15 "x = 42 (mod 99)" }}{PARA 0 "" 0 "" {TEXT -1 15 "x = -8 (mod 50)" }
+}{PARA 0 "" 0 "" {TEXT -1 15 "x = 25 (mod 15)" }}{PARA 0 "" 0 "" 
+{TEXT -1 14 "x = 0 (mod 13)" }}{PARA 0 "" 0 "" {TEXT -1 30 "se\361ala \+
+la respuesta verdadera:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 53 "a) El \+
+teorema chino de los restos no puede aplicarse." }}{PARA 0 "" 0 "" 
+{TEXT -1 86 "b) El teorema chino de los restos garantiza que hay una \+
+\372nica soluci\363n m\363dulo 1093950." }}{PARA 0 "" 0 "" {TEXT -1 
+87 "c) El teorema chino de los restos garantiza que hay m\341s de una \+
+soluci\363n m\363dulo 1093950." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 12 "igcd(50,15);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "La respue
+sta correcta es la a)." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 163 "3. Determi
+na la cantidad de n\372meros entre el 25218 y el 36451 (ambos inclusiv
+e) tal que en el conjunto de sus divisores est\341 el n\372mero 15 \+
+\363 el n\372mero 17 (o ambos)." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 7 
+"a) 1366" }}{PARA 0 "" 0 "" {TEXT -1 7 "b) 1367" }}{PARA 0 "" 0 "" 
+{TEXT -1 7 "c) 1465" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 88 "c:=0
+: for i from 25218 to 36451 do\nif (i mod 15)=0 or (i mod 17)=0 then c
+:=c+1 fi od: c;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "La respuesta c
+orrecta es la a)." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 51 "4. Sea la fun
+ci\363n definida en el conjunto cociente " }{TEXT 265 3 "Z17" }{TEXT 
+-1 62 " por la relaci\363n de congruencia m\363dulo 17 dada por la f
+\363rmula " }{TEXT 266 20 "f(n)=3*n^13+5 mod 17" }{TEXT -1 32 ". Se
+\361ala la respuesta correcta: " }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+14 "a) La funci\363n " }{TEXT 267 1 "f" }{TEXT -1 26 " es una funci
+\363n biyectiva." }}{PARA 0 "" 0 "" {TEXT -1 14 "b) La funci\363n " }
+{TEXT 268 1 "f" }{TEXT -1 20 " no es sobreyectiva." }}{PARA 0 "" 0 "" 
+{TEXT -1 14 "c) La funci\363n " }{TEXT 269 1 "f" }{TEXT -1 17 " es no \+
+inyectiva." }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 40 "nops([seq(3*n^(13)+5 mod 17, n=0..16)]);" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "La respuesta correcta es la a)." }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 79 "5. Calcula la proporci\363n de n
+\372meros primos entre los n\372meros menores que 30.000" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 12 "a)    0.1981" }}{PARA 0 "" 0 "" {TEXT -1 
+11 "b)   0.1081" }}{PARA 0 "" 0 "" {TEXT -1 11 "c)   0.1001" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "c:=0: for i from 1 to 3*10^4
+ do " }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 49 "if isprime(i) then c:=c+1 f
+i; od; evalf(c/30000);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "La resp
+uesta correcta es la b)." }{MPLTEXT 1 0 0 "" }{TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 118 "6. Determinar la cantidad de n\372meros enteros menores o igua
+les que 1100 relativamente primos con 1100 que son impares." }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 6 "a) 300" }}{PARA 0 "" 0 "" {TEXT -1 
+6 "b) 200" }}{PARA 0 "" 0 "" {TEXT -1 7 "c) 400 " }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 27 "with(numtheory): phi(1100);" }}}{PARA 0 "" 0 
+"" {TEXT -1 0 "" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 86 "La respuesta co
+rrecta es la c) porque los pares no son relativamente primos con 1100.
+ " }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}
+}{EXCHG {PARA 0 "" 0 "" {TEXT -1 151 "7. Determinar cu\341ntos n\372me
+ros enteros mayores estrictamente que 1 y menores estrictamente que 10
+00 son, a la vez, primos y congruentes con 7 m\363dulo 4. " }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 5 "a) 45" }}{PARA 0 "" 0 "" {TEXT -1 5 "b) 56
+" }}{PARA 0 "" 0 "" {TEXT -1 5 "c) 87" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 20 "solve(4*i+3<1000,i);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 83 "c:=0;\nfor i from 0 to floor(997/4) do\nif isprime(4*
+i+3)=true then c:=c+1 fi: od:\nc;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+31 "La respuesta correcta es la c)." }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 48 "8. Sean los siguientes sistemas de congruencias:" }}{PARA 0 "" 
+0 "" {TEXT -1 9 "x=1 mod 5" }}{PARA 0 "" 0 "" {TEXT -1 9 "x=1 mod 6" }
+}{PARA 0 "" 0 "" {TEXT -1 9 "x=1 mod 7" }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 2 "y " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 9 "x=1 mod 5" }}{PARA 0 "" 0 "" {TEXT -1 9 "x
+=1 mod 2" }}{PARA 0 "" 0 "" {TEXT -1 10 "x=1 mod 21" }}{PARA 0 "" 0 "
+" {TEXT -1 103 "a) El conjunto de soluciones del primer sistema es igu
+al al conjunto de soluciones del segundo sistema." }}{PARA 0 "" 0 "" 
+{TEXT -1 71 "b) Toda soluci\363n del primer sistema lo es del segundo \+
+pero no al rev\351s." }}{PARA 0 "" 0 "" {TEXT -1 72 "c) Toda soluci
+\363n del segundo sistema lo es del primero pero no al rev\351s." }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 48 "chrem([1,1,1],[5,6,7]); chre
+m([1,1,1],[5,2,21]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}
+}{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "La respuesta correcta es la a)." 
+}{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 18 "9. Sea la fu
+nci\363n " }{TEXT 257 9 "f(n)=5n+3" }{TEXT -1 1 " " }{TEXT 271 5 "mod \+
+6" }{TEXT -1 25 " definida en el conjunto " }{TEXT 270 2 "Z6" }{TEXT 
+-1 45 " de las clases de equivalencia m\363dulo 6. Sea " }{TEXT 258 4 
+"g(n)" }{TEXT -1 38 " la funci\363n inversa, esto es, tal que " }
+{TEXT 259 10 "f(g(n))=n." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 25 "a) No
+ existe tal inversa " }{TEXT 260 5 "g(n)." }}{PARA 0 "" 0 "" {TEXT -1 
+14 "b) La funci\363n " }{TEXT 261 4 "g(n)" }{TEXT -1 23 " es igual a l
+a funci\363n " }{TEXT 262 5 "f(n)." }}{PARA 0 "" 0 "" {TEXT -1 15 "c) \+
+ La funci\363n " }{TEXT 263 4 "g(n)" }{TEXT -1 4 " es " }{TEXT 264 9 "
+g(n)=2n+1" }{TEXT -1 1 "." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+12 "5*(5*n+3)+3;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "25 mod \+
+6; 18 mod 6;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "La respuesta corr
+ecta es la b)." }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+58 "10. Los inversos de 3, 5 y 7 modulo 9 son respectivamente:" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 12 "a) 3, 2 y 4." }}{PARA 0 "" 0 "" 
+{TEXT -1 12 "b) 5, 2 y 4." }}{PARA 0 "" 0 "" {TEXT -1 67 "c) El invers
+o de 3 no existe y los otros son 2 y 4 respectivamente." }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "msolve(3*n-1,9); msolve(5*n-1,9); m
+solve(7*n-1,9);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "La respuesta correcta es la c)." }
+{MPLTEXT 1 0 0 "" }}}}}{MARK "1" 0 }{VIEWOPTS 1 1 0 1 1 1803 }

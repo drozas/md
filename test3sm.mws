@@ -1,0 +1,172 @@
+{VERSION 3 0 "IBM INTEL NT" "3.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 0 
+0 }{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 256 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 257 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 258 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 259 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 260 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 261 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" 
+-1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 
+0 }{PSTYLE "Heading 1" 0 3 1 {CSTYLE "" -1 -1 "" 1 18 0 0 0 0 0 1 0 0 
+0 0 0 0 0 }1 0 0 0 8 4 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {SECT 0 {PARA 3 "" 0 "" {TEXT -1 75 "Soluciones de las cuestio
+nes sobre la pr\341ctica 3 (2002-2003, Sist. ma\361ana):" }{TEXT 257 
+2 "  " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 194 
+"1)  En un taller hay 15 coches que necesitan reparaciones. Cinco de e
+llos no pueden ser arreglados por exceso de trabajo. Determinar cu\341
+ntas posibles elecciones de dichos coches se pueden hacer." }}{PARA 0 
+"" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 4 "a)  " }{XPPEDIT 
+18 0 "360360;" "6#\"'g.O" }}{PARA 0 "" 0 "" {TEXT -1 3 "b) " }
+{XPPEDIT 18 0 "3003;" "6#\"%.I" }}{PARA 0 "" 0 "" {TEXT -1 3 "c) " }
+{XPPEDIT 18 0 "50403;" "6#\"&./&" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 204 "Como en la elecci\363n de los cinco coch
+es que no van a ser arreglados (o equivalentemente en la de los 10 que
+ s\355) no influye el orden, se trata del n\372mero de combinaciones d
+e 15 elementos tomados de 5 en 5." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "with(combinat):" }{TEXT -1 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "binomial(15,5);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 31 "La respuesta correcta es la b)." }}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 149 "2)  Determinar el n\372m
+ero de pares de palabras que se pueden construir de modo que la primer
+a palabra se obtenga  permutando las letras de la palabra " }{TEXT 
+256 15 "CALEIDOSCOPIO  " }{TEXT -1 60 "y la segunda se obtenga permuta
+ndo las letras de la palabra " }{TEXT 258 11 "DESASTROSO." }}{PARA 0 "
+" 0 "" {TEXT -1 3 "a) " }{XPPEDIT 18 0 "78460462080000;" "6#\"/++3i/Yy
+" }}{PARA 0 "" 0 "" {TEXT -1 3 "b) " }{XPPEDIT 18 0 "78460462080001;" 
+"6#\"/,+3i/Yy" }}{PARA 0 "" 0 "" {TEXT -1 3 "c) " }{XPPEDIT 18 0 "7846
+0462081000;" "6#\"/+53i/Yy" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 
+"" 0 "" {TEXT -1 168 "Al tratarse de pares de palabras, tenemos un pro
+ducto cartesiano. Aplicando la regla del producto y los comandos que c
+omputan las permutaciones con repetici\363n se tiene:" }}{PARA 0 "" 0 
+"" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 70 "numbperm(
+[C,A,L,E,I,D,O,S,C,O,P,I,O])*numbperm([D,E,S,A,S,T,R,O,S,O]);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 31 "La respuesta correcta es la a)." }}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 82 "3) Sea el experimento ale
+atorio consistente en lanzar 245 monedas simult\341neamente." }}{PARA 
+0 "" 0 "" {TEXT -1 58 "a) Hay 246 posibles resultados, todos ellos equ
+iprobables." }}{PARA 0 "" 0 "" {TEXT -1 120 "b) Hay 245 posibles resul
+tados, todos ellos equiprobables.\nc) Hay 246 posibles resultados, no \+
+todos ellos equiprobables." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 
+"" 0 "" {TEXT -1 80 "Se trata de combinaciones con repetici\363n de do
+s elementos tomados de 245 en 245." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "binomial(2+245-1,245);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 167 "La respuesta correcta es la c) puesto que no todos los r
+esultados son equiprobables. Por ejemplo, obtener 245 caras es menos p
+robable que obtener 244 caras y una cruz." }}}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 250 "4) Sea un alfabeto con 24 letr
+as. Determinar cuantas contrase\361as alfanum\351ricas (formadas por n
+\372meros y letras, distinguiendo may\372sculas y min\372sculas) de 9 \+
+s\355mbolos se pueden establecer, sabiendo que los tres primeros s\355
+mbolos han de ser letras y los " }}{PARA 0 "" 0 "" {TEXT -1 32 "tres \+
+\372ltimos han de ser n\372meros." }}{PARA 0 "" 0 "" {TEXT -1 3 "a) " 
+}{XPPEDIT 18 0 "21577826304009;" "6#\"/4SIEyd@" }}{PARA 0 "" 0 "" 
+{TEXT -1 3 "b) " }{XPPEDIT 18 0 "21577826304000;" "6#\"/+SIEyd@" }}
+{PARA 0 "" 0 "" {TEXT -1 3 "c) " }{XPPEDIT 18 0 "21477826304000;" "6#
+\"/+SIEyZ@" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 51 "Es una aplicaci\363n directa de la regla del producto." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+28 "(24*2)^3*((24*2+10)^3)*10^3;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "La respuesta \+
+correcta es la b)." }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "
+" {TEXT -1 103 "5)  Sean S y S' dos sucesos de un mismo espacio muestr
+al tales que: p(S)=0.5, p(S')=0.8 y p(S|S')=0.5. " }}{PARA 0 "" 0 "" 
+{TEXT -1 16 "Se verifica que:" }}{PARA 0 "" 0 "" {TEXT -1 92 "a) la pr
+obabilidad de S intersecci\363n con S' es 0.4 y por tanto no son suces
+os independientes" }}{PARA 0 "" 0 "" {TEXT -1 90 "b) la probabilidad d
+e S intersecci\363n con S' es 0.4 y por tanto son sucesos independient
+es " }}{PARA 0 "" 0 "" {TEXT -1 47 "c) la probabilidad de S intersecci
+\363n S' es 0.5." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 217 "De la f\363rmula que define la probabilidad condicionada
+ obtenemos que la probabilidad de la intersecci\363n de S y S' es exac
+tamente el producto de las probabilidades de S y de S'. Obs\351rvese a
+dem\341s p(S|S') es igual a p(S)." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "0.5*0.8;" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "La r
+espuesta correcta es la b)." }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 
+0 "" 0 "" {TEXT -1 115 "6) Calcular la probabilidad de que un n\372mer
+o natural menor o igual a 100000 sea un cuadrado de un n\372mero natur
+al y " }}{PARA 0 "" 0 "" {TEXT -1 26 "congruente con 3 m\363dulo 5." }
+}{PARA 0 "" 0 "" {TEXT -1 4 "a)  " }{XPPEDIT 18 0 "1/45;" "6#*&\"\"\"
+\"\"\"\"#X!\"\"" }}{PARA 0 "" 0 "" {TEXT -1 4 "b)  " }{XPPEDIT 18 0 "2
+0173/10000;" "6#*&\"&t,#\"\"\"\"&++\"!\"\"" }}{PARA 0 "" 0 "" {TEXT 
+-1 4 "c)  " }{XPPEDIT 18 0 "0;" "6#\"\"!" }{TEXT -1 1 " " }}{PARA 0 "
+" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 85 "Observamos que nin
+g\372n cuadrado menor o igual que 100000 es congruente con 3 m\363dulo
+ 5." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 18 "evalf(sqrt(10^5));" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 30 "A:=\{seq(i^2 mod 5,i=1..316)\};\n" }}}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 31 "La respuesta correcta e
+s la c)." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 
+244 "7) Tomamos una urna con bolas de tres colores. Si la urna contien
+e 320 bolas y extraemos 5 bolas, determinar el n\372mero m\355nimo de \+
+bolas rojas en la urna para que la probabilidad de que las cinco bolas
+ extra\355das sean todas rojas sea al menos 1/5." }}{PARA 0 "" 0 "" 
+{TEXT -1 6 "a) 213" }}{PARA 0 "" 0 "" {TEXT -1 6 "b) 233" }}{PARA 0 "
+" 0 "" {TEXT -1 6 "c) 235" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "
+" 0 "" {TEXT -1 24 "Construimos una funci\363n " }{TEXT 260 5 "p(n) " 
+}{TEXT -1 6 "donde " }{TEXT 259 1 "n" }{TEXT -1 186 " es el n\372mero \+
+de bolas rojas y que computa la probabilidad de que las 5 sean rojas. \+
+Despu\351s, observando que es creciente, vamos evalu\341ndola sucesiva
+mente hasta llegar al primer valor de " }{TEXT 261 1 "n" }{TEXT -1 34 
+" que verifica la propiedad pedida." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "p:=n->binomial(n,5)/binomia
+l(320,5);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "i:=0:\nwhile(e
+valf(p(i))<1/5) do\ni:=i+1: od: i;" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 56 "evalf(1/5);evalf(p(232)); evalf(p(233)); evalf(p(234)
+); " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 31 "La respuesta correcta es la b)." }}}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 191 "8)  Sea el experimento
+ aleatorio consistente en el tirar consecutivamente tres dados numerad
+os del uno al 8. Calcular la probabilidad de que la suma de los result
+ados de los tres dados sea 7." }}{PARA 0 "" 0 "" {TEXT -1 4 "a)  " }
+{XPPEDIT 18 0 "15/512;" "6#*&\"#:\"\"\"\"$7&!\"\"" }}{PARA 0 "" 0 "" 
+{TEXT -1 3 "b) " }{XPPEDIT 18 0 "3/512;" "6#*&\"\"$\"\"\"\"$7&!\"\"" }
+}{PARA 0 "" 0 "" {TEXT -1 3 "c) " }{XPPEDIT 18 0 "21/512;" "6#*&\"#@\"
+\"\"\"$7&!\"\"" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 50 "Las posibles ternas ordenadas de  resultados son: " }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "8^3;" }}}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 106 "Veamos las maneras en qu
+e 7 se puede escribir como suma de tres n\372meros naturales menores o
+ iguales que 8." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 19 "suma:=partition(7);" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 126 "c:=0:\nsuma3:=[]:\nfor i from 1 to nops(suma) do
+\n  if nops(suma[i])=3 then suma3:=[op(suma3),suma[i]]:\nc:=c+1; fi: o
+d;\nc; suma3;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 143 "Hay cuatro for
+mas de escribir 7 como suma de tres n\372meros naturales y, por tanto,
+ hay 3+3+3+6=15 ternas ordenadas de resultados cuya suma es 7." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+10 "p:=15/8^3;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "La respuesta correcta es la a)." }
+}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 69 "9)  Sea
+ un experimento de Bernoulli con probabilidad de \351xito p=1/4. " }}
+{PARA 0 "" 0 "" {TEXT -1 91 "Calcula la probabilidad de obtener al men
+os 53 \351xitos al repetir el experimento 200 veces. " }}{PARA 0 "" 0 
+"" {TEXT -1 16 "La respuesta es:" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 4 
+"a)  " }{XPPEDIT 18 0 ".3375561601;" "6#$\"+,;cvL!#5" }}{PARA 0 "" 0 "
+" {TEXT -1 4 "b)  " }{XPPEDIT 18 0 ".3374461601;" "6#$\"+,;YuL!#5" }}
+{PARA 0 "" 0 "" {TEXT -1 4 "c)  " }{XPPEDIT 18 0 ".3374341601;" "6#$\"
++,;MuL!#5" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 37 "Se trata de usar la f\363rmula adecuada." }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 64 "evalf(sum(bi
+nomial(200,k)*((1/4)^k)*((3/4)^(200-k)),k=53..200));" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 31 "La respuesta correcta es la b)." }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+}{PARA 0 "" 0 "" {TEXT -1 119 "10) La probabilidad de extraer un n\372
+mero par relativamente primo con 5673 de una urna que contiene los n
+\372meros enteros " }}{PARA 0 "" 0 "" {TEXT -1 24 "entre el 1 y el 567
+3 es:" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 5 "a)   " }{XPPEDIT 18 0 "120
+0/1891;" "6#*&\"%+7\"\"\"\"%\"*=!\"\"" }}{PARA 0 "" 0 "" {TEXT -1 5 "b
+)   " }{XPPEDIT 18 0 "600/1891;" "6#*&\"$+'\"\"\"\"%\"*=!\"\"" }}
+{PARA 0 "" 0 "" {TEXT -1 6 "c)    " }{XPPEDIT 18 0 "4/5;" "6#*&\"\"%\"
+\"\"\"\"&!\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "with(numt
+heory):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 91 "c:=0:\nfor i fro
+m 1 to 5673 do\nif i mod 2=0 and igcd(i,5673)=1 then c:=c+1: \nfi: od:
+ c/5673;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 31 "La respuesta correcta es la b)." }{MPLTEXT 1 0 0 "" }}}}}{MARK 
+"1" 0 }{VIEWOPTS 1 1 0 1 1 1803 }

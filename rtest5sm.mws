@@ -1,0 +1,387 @@
+{VERSION 3 0 "IBM INTEL NT" "3.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 }{CSTYLE "" -1 256 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 257 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 258 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 259 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 260 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 261 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 262 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 263 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 264 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 265 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 266 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 267 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 268 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 269 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 270 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 271 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 272 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 273 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 274 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 278 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 279 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 280 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 281 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 282 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 283 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 284 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 285 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 286 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 287 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 288 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 289 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 290 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 291 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 292 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 293 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 294 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 295 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 296 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 297 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 298 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 299 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 300 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 301 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 302 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 303 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 304 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 305 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 306 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 307 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 308 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 309 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 310 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 311 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 312 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 313 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 314 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 315 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 316 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 317 
+"" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 318 "" 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 319 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 320 "" 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 }{PSTYLE "Normal" 
+-1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 -1 
+-1 0 0 0 0 0 0 -1 0 }{PSTYLE "Heading 1" 0 3 1 {CSTYLE "" -1 -1 "" 1 
+18 0 0 0 0 0 1 0 0 0 0 0 0 0 }1 0 0 0 8 4 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {SECT 0 {PARA 3 "" 0 "" {TEXT -1 49 "Soluciones de las cuestio
+nes sobre la pr\341ctica 5:" }{TEXT 256 2 "  " }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "restart: wit
+h(linalg):" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 4 "Sea " }{TEXT 258 1 "M" }{TEXT -1 23 " la matriz definida por" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+6177 "M:=matrix([[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, \+
+1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, \+
+1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, \+
+1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, \+
+1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, \+
+1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+, 0], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, \+
+1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], \+
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, \+
+0, 0, 0, 0, 0, 0, 1]]):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 19 "1.-S
+ea un conjunto " }{TEXT 259 1 "A" }{TEXT -1 16 " y una relaci\363n " }
+{TEXT 260 1 "R" }{TEXT -1 4 " en " }{TEXT 261 1 "A" }{TEXT -1 28 " rep
+resentada por la matriz " }{TEXT 262 1 "M" }{TEXT -1 1 ":" }}{PARA 0 "
+" 0 "" {TEXT -1 15 "a) el conjunto " }{TEXT 263 1 "A" }{TEXT -1 19 " t
+iene 84 elementos" }}{PARA 0 "" 0 "" {TEXT -1 15 "b) el conjunto " }
+{TEXT 264 1 "A" }{TEXT -1 19 " tiene 45 elementos" }}{PARA 0 "" 0 "" 
+{TEXT -1 15 "c) el conjunto " }{TEXT 265 1 "A" }{TEXT -1 19 " tiene 50
+ elementos" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 15 "El cardinal de " }{TEXT 266 1 "A" }{TEXT -1 42 " es el n\372mer
+o de filas (o de columnas) de " }{TEXT 267 1 "M" }}{PARA 0 "" 0 "" 
+{TEXT -1 1 ":" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "rowdim(M);
+" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 31 "La r
+espuesta correcta es la b)." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 16 "2
+.- La relaci\363n " }{TEXT 268 1 "R" }{TEXT -1 4 " es:" }}{PARA 0 "" 
+0 "" {TEXT -1 31 "a) sim\351trica pero no reflexiva " }}{PARA 0 "" 0 "
+" {TEXT -1 27 "b) no sim\351trica y reflexiva" }}{PARA 0 "" 0 "" 
+{TEXT -1 28 "c) ni sim\351trica ni reflexiva" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 43 "Traemos los procedimientos que \+
+necesitamos." }}{PARA 0 "" 0 "" {TEXT -1 1 " " }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 160 "Mref:=proc(M::matrix)\nlocal j,S,r:\nS:=0:\nfor
+ j from 1 to coldim(M)\ndo S:=S+M[j,j]: od:\nif S=coldim(M) then r:=\"
+reflexiva\": else r:=\"no reflexiva\": \nfi:\nr; end: " }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 236 "Msim:=proc(M::matrix)\nlocal N,S,i
+,j,r:\nN:=evalm(M-transpose(M)):\nS:=0:\nfor i from 1 to rowdim(M) whi
+le S=0 do\nfor j from 1 to rowdim(M) do\nif N[i,j]<>0 then S:=1: fi: o
+d: od:\nif S=1 then r:=\"no simetrica\" else r:=\"simetrica\" fi:\nr; \+
+end:" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 17 "Mref(M); Msim(M);" }}}{PARA 0 "" 0 "" {TEXT -1 31 "La
+ respuesta correcta es la a)." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 17 
+"3.-  La relaci\363n " }{TEXT 269 1 "R" }{TEXT -1 4 " es:" }}{PARA 0 "
+" 0 "" {TEXT -1 29 "a) transitiva y antisim\351trica" }}{PARA 0 "" 0 "
+" {TEXT -1 34 "b) ni antisim\351trica, ni transitiva" }}{PARA 0 "" 0 "
+" {TEXT -1 32 "c) antisim\351trica y no transitiva" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 43 "Traemos los procedimiento
+s que necesitamos." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 241 "Mantisim:=proc(M::matrix)\nlocal S,i,j,r:\n
+S:=0:\nfor i from 1 to rowdim(M) while S=0 do\nfor j from 1 to rowdim(
+M) do\nif M[i,j]=1 and M[j,i]=1 and i<>j then S:=1: fi: od: od:\nif S=
+1 then r:=\"no antisimetrica\" else r:=\"antisimetrica\" fi:\nr; end:
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 243 "Mtrans:=proc(M::matrix
+)\nlocal N,S,i,j,r:\nN:=evalm(M^2):\nS:=0:\nfor i from 1 to rowdim(M) \+
+while S=0 do \nfor j from 1 to rowdim(M) do\nif N[i,j]<>0 and M[i,j]=0
+ then\nS:=1: fi: od: od:\nif S=1 then r:=\"no transitiva\" else r:=\"t
+ransitiva\":\nfi:r; end:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 
+"Mantisim(M); Mtrans(M);" }}}{PARA 0 "" 0 "" {TEXT -1 31 "La respuesta
+ correcta es la b)." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 42 "4.- La ma
+triz de la clausura reflexiva de " }{TEXT 270 1 "R" }{TEXT -1 7 " tien
+e " }}{PARA 0 "" 0 "" {TEXT -1 33 "a) 0 entradas distintas a las de " 
+}{TEXT 271 1 "M" }}{PARA 0 "" 0 "" {TEXT -1 34 "b) 45 entradas distint
+as a las de " }{TEXT 272 1 "M" }}{PARA 0 "" 0 "" {TEXT -1 34 "c) 43 en
+tradas distintas a las de " }{TEXT 273 1 "M" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 51 "Contamos el n\372mero de entrad
+as nulas en la diagonal" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 70 "S:=0:\nfor z from 1 to rowdim(M) do
+\nif M[z,z]=0 then S:=S+1: fi:\nod: S;" }{TEXT -1 0 "" }}}{PARA 0 "" 
+0 "" {TEXT -1 31 "La respuesta correcta es la c)." }}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "
+" 0 "" {TEXT -1 54 "5.- La matriz de la clausura sim\351trica de la re
+laci\363n " }{TEXT 274 1 "R" }{TEXT -1 1 ":" }}{PARA 0 "" 0 "" {TEXT 
+-1 45 "a) no tiene ninguna entrada distinta a la de " }{TEXT 256 1 "M
+" }}{PARA 0 "" 0 "" {TEXT -1 40 "b) tiene 10 entradas distintas a las \+
+de " }{TEXT 257 1 "M" }}{PARA 0 "" 0 "" {TEXT -1 39 "c) tiene 4 entrad
+as distintas a las de " }{TEXT 258 1 "M" }}{PARA 0 "" 0 "" {TEXT -1 0 
+"" }}{PARA 0 "" 0 "" {TEXT -1 7 "Siendo " }{TEXT 278 1 "M" }{TEXT -1 
+103 " la matriz de una relaci\363n sim\351trica, la matriz de su claus
+ura sim\351trica tiene las mismas entradas que " }{TEXT 279 1 "M" }
+{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 31 "Para verificarlo directa
+mente:\n" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "Matrizdeunosycer
+os:=proc(M::matrix)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "  local i,j,
+Mat;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "  Mat:=matrix(rowdim(M),col
+dim(M),0);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "  for i from 1 to row
+dim(M) do" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "   for j from 1 to col
+dim(M) do" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "    if(M[i,j]<>0) then
+ Mat[i,j]:=1;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "    fi; " }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 6 "   od;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+5 "  od;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "RETURN(eval(Mat));" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "end:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 45 "N:=Matrizdeunosyceros(evalm(M+transpose(M))):" }}}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 99 "Vamos a c
+onstruir un procedimiento para contar el n\372mero de entradas diferen
+tes entre dos matrices:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 164 "Entradas:=proc(M::matrix, N::matri
+x)\nlocal S,z,t:\nS:=0:\nfor z from 1 to rowdim(M) do\nfor t from 1 to
+ coldim(M) do\nif N[z,t]<>M[z,t] then S:=S+1: fi:\nod: od: S; end:" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "Entradas(M,N);" }}}{PARA 0 
+"" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 47 "Tambi\351n, se pu
+ede utilizar el comando de Maple " }{TEXT 257 9 "iszero(B)" }{TEXT -1 
+1 "," }{TEXT 280 1 " " }{TEXT -1 28 "que determina si una matriz " }
+{TEXT 281 1 "B" }{TEXT -1 19 " es la matriz cero:" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "iszero(evalm
+(M-N));" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 
+31 "La respuesta correcta es la a)." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 21 "6.- Sean el conjunto " }{TEXT 
+282 1 "B" }{TEXT -1 15 " y la relaci\363n " }{TEXT 283 1 "S" }{TEXT 
+-1 18 " definidas abajo. " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 261 "B:=\{1,2,3,4,5,6,7,8,9,0,a\}: S:=
+\{[1,1],[1,2],[1,3],[2,2],[2,3],[2,5],[3,3],[3,5],[3,5],[3,6],[4,5],[4
+,6],[4,7],[5,5],[8,5],[8,6],[8,7],[8,8],[8,9],[9,5],[9,9],[9,6],[0,0],
+[0,1],[0,5],[8,0],[0,4],[4,0],[7,7],[7,8],[4,3],[4,4],[8,3],[0,1],[1,0
+],[6,6],[a,a],[1,a]\}:" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 4 "Sea
+ " }{TEXT 284 2 "Ct" }{TEXT -1 27 " la clausura transitiva de " }
+{TEXT 285 1 "S" }{TEXT -1 18 ". Se verifica que:" }}{PARA 0 "" 0 "" 
+{TEXT -1 3 "a) " }{TEXT 286 2 "Ct" }{TEXT -1 16 " no es reflexiva" }}
+{PARA 0 "" 0 "" {TEXT -1 3 "b) " }{TEXT 287 3 "Ct " }{TEXT -1 30 "es u
+na relaci\363n de orden total" }}{PARA 0 "" 0 "" {TEXT -1 3 "c) " }
+{TEXT 288 2 "Ct" }{TEXT -1 28 " no es una relaci\363n de orden" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 21 "Calculamo
+s la matriz " }{TEXT 289 1 "A" }{TEXT -1 16 " de la relaci\363n:" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+57 "MatrizRelacion:=proc(D::list,R::set([anything,anything]))" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 13 " local i,j,L;" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 7 " L:=[];" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 27 " for i f
+rom 1 to nops(D) do" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "   for j fro
+m 1 to nops(D) do" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "     if member
+([[op(D)][i],[op(D)][j]],R) then" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 38 
+"       L:=[op(L),1] else L:=[op(L),0];" }}{PARA 0 "> " 0 "" {MPLTEXT 
+1 0 8 "     fi;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "   od;" }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 4 " od;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 34 
+" evalm(matrix(nops(D),nops(D),L));" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 
+4 "end:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 45 "A:=MatrizRelacio
+n([1,2,3,4,5,6,7,8,9,0,a],S);" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 99 "Se trata entonces de calcular la clausura
+ transitiva. Lo hacemos mediante el algoritmo de Warshall:" }}{PARA 0 
+"" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "Wars
+hall:=proc(M::matrix)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "  local i,
+j,k,W,n;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 82 "W:=matrix(rowdim(M),col
+dim(M),[seq(seq(M[i,j],j=1...coldim(M)),i=1..coldim(M))]): " }}{PARA 
+0 "> " 0 "" {MPLTEXT 1 0 15 "  n:=coldim(M);" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 22 "  for k from 1 to n do" }}{PARA 0 "> " 0 "" {MPLTEXT 
+1 0 23 "   for i from 1 to n do" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "
+    for j from 1 to n do" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 36 "     W[
+i,j]:=W[i,j]+(W[i,k]*W[k,j]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "   \+
+ od;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "   od;" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 5 "  od;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 23 " Matrizdeu
+nosyceros(W);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 4 "end:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "L:=Warshall(A);" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 8 "Mref(L);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 12 "Mantisim(L);" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 57 "Por tanto es reflexiva, transitiva pero n
+o antisim\351trica." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "
+" {TEXT -1 31 "La respuesta correcta es la c)." }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 37 "7.- Determinar si ex
+isten valores de " }{TEXT 296 1 "l" }{TEXT -1 3 " y " }{TEXT 291 1 "m
+" }{TEXT -1 57 " para que la relaci\363n que representa la siguiente m
+atriz " }{TEXT 290 1 "P" }{TEXT -1 15 " sea reflexiva:" }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 95 "P:=matr
+ix(5,5,[[1,1,l*m,l*m,l],[1,1,1,1,l^3],[l,1,1,l*m,l],[l*m,1,l*m,l,m],[l
+^2,l*m,l*m,m,1]]):" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "
+" {TEXT -1 22 "a) no hay  valores de " }{TEXT 292 1 "l" }{TEXT -1 3 " \+
+y " }{TEXT 293 1 "m" }{TEXT -1 23 " que la hagan reflexiva" }}{PARA 0 
+"" 0 "" {TEXT -1 40 "b) es reflexiva para cualquier valor de " }{TEXT 
+294 1 "m" }{TEXT -1 13 " siempre que " }{TEXT 297 1 "l" }{TEXT -1 23 "
+ tome un valor adecuado" }}{PARA 0 "" 0 "" {TEXT -1 10 "c) siendo " }
+{TEXT 298 3 "l=1" }{TEXT -1 1 "," }{TEXT 299 1 " " }{TEXT -1 16 "hay  \+
+valores de " }{TEXT 295 1 "m" }{TEXT -1 26 " que la hacen no reflexiva
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 9 "evalm(P);" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 31 "La respuesta correcta es la b)." }}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "
+" {TEXT -1 48 "8.- Idem que 7 pero para la propiedad sim\351trica:" }}
+{PARA 0 "" 0 "" {TEXT -1 22 "a) no hay  valores de " }{TEXT 300 1 "l" 
+}{TEXT -1 3 " y " }{TEXT 301 1 "m" }{TEXT -1 23 " que la hagan sim\351
+trica" }}{PARA 0 "" 0 "" {TEXT -1 22 "b) existen valores de " }{TEXT 
+256 2 "l " }{TEXT -1 2 "y " }{TEXT 257 1 "m" }{TEXT -1 22 " que la hac
+e sim\351trica" }}{PARA 0 "" 0 "" {TEXT -1 40 "c) es sim\351trica para
+ cualquier valor de " }{TEXT 256 1 "l" }{TEXT -1 3 " y " }{TEXT 257 1 
+"m" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 29 "Par
+a que la matriz siguiente:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "X:=evalm(P-transpose(P));" }}}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 38 "sea igual
+ a cero se tiene que cumplir:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 135 "eq[1]:=X[1,3]=0;\neq[2]:=X[
+1,5]=0;\neq[3]:=X[2,5]=0;\neq[4]:=X[3,1]=0;\neq[5]:=X[3,5]=0;\neq[6]:=
+X[5,1]=0;\neq[7]:=X[5,2]=0;\neq[8]:=X[5,3]=0;" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 27 "solve(\{seq(eq[i],i=1..8)\});" }}}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 31 "La respuesta correcta es la b)." }}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "
+" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 37 "9.- Determinar si exist
+en valores de " }{TEXT 302 1 "l" }{TEXT -1 3 " y " }{TEXT 303 1 "m" }
+{TEXT -1 47 " para que la relaci\363n que representa la matriz " }
+{TEXT 304 1 "P" }{TEXT -1 44 " de los problemas 7 y 8 sea de equivalen
+cia:" }}{PARA 0 "" 0 "" {TEXT -1 22 "a) no hay  valores de " }{TEXT 
+256 1 "l" }{TEXT -1 3 " y " }{TEXT 257 1 "m" }{TEXT -1 42 " que la hag
+an una relaci\363n de equivalencia" }}{PARA 0 "" 0 "" {TEXT -1 40 "b) \+
+es una relaci\363n de equivalencia para " }{TEXT 258 3 "l=1" }{TEXT 
+-1 3 " y " }{TEXT 259 3 "m=0" }}{PARA 0 "" 0 "" {TEXT -1 40 "c) es una
+ relaci\363n de equivalencia para " }{TEXT 260 3 "l=1" }{TEXT -1 3 " y
+ " }{TEXT 261 3 "m=1" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "
+" {TEXT -1 89 "Como toda relaci\363n de equivalencia tiene que ser ref
+lexiva, necesariamente tiene que ser " }{TEXT 305 3 "l=1" }{TEXT -1 6 
+". Si  " }{TEXT 306 3 "l=1" }{TEXT -1 58 ",  por el problema 8, la rel
+aci\363n es tambi\351n sim\351trica si " }{TEXT 307 3 "m=1" }{TEXT -1 
+49 ". Tenemos que verificar si para estos valores de " }{TEXT 308 1 "l
+" }{TEXT -1 3 " y " }{TEXT 309 1 "m" }{TEXT -1 27 " la relaci\363n es \+
+transitiva:" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 34 "P1:=evalm(subs(l=1,m=1,evalm(P)));" }}}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 78 "Y en efecto lo es ya
+ que todas sus entradas son no nulas. Podemos verificarlo." }}{PARA 0 
+"" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "eval
+m(Warshall(P1)-P1);" }}}{PARA 0 "" 0 "" {TEXT -1 31 "La respuesta corr
+ecta es la c)." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 9 "10.- Sea " }
+{TEXT 310 2 "L " }{TEXT -1 64 "la siguiente matriz, que representa una
+ relaci\363n en el conjunto " }{TEXT 311 19 "A=\{a,b,c,d,e,f,g,h\}" }
+{TEXT -1 1 ":" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 220 "L:=matrix([[1, 0, 0, 0, 1, 0, 0, 0], [0, 1, 1, \+
+1, 0, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1], [1
+, 0, 0, 0, 1, 0, 0, 0], [0, 1, 1, 1, 0, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1
+, 1], [0, 1, 1, 1, 0, 1, 1, 1]]):" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 16 "Se verifica que:" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 26 "a) la relaci\363n que def
+ine " }{TEXT 312 2 "L " }{TEXT -1 3 "en " }{TEXT 314 1 "A" }{TEXT -1 
+63 " es una relaci\363n de equivalencia y la clase de equivalencia de \+
+" }{TEXT 313 1 "a" }{TEXT -1 4 " es " }{TEXT 316 7 "\{a,e,f\}" }}
+{PARA 0 "" 0 "" {TEXT -1 3 "b) " }{TEXT 318 1 "L" }{TEXT -1 67 " defin
+e una relaci\363n de equivalencia y la clase de equivalencia de " }
+{TEXT 319 1 "b" }{TEXT -1 4 " es " }{TEXT 320 13 "\{b,c,d,f,g,h\}" }
+{TEXT -1 1 "." }}{PARA 0 "" 0 "" {TEXT -1 3 "c) " }{TEXT 317 1 "L" }
+{TEXT -1 39 " no define una relaci\363n de equivalencia" }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 220 "L:=mat
+rix([[1, 0, 0, 0, 1, 0, 0, 0], [0, 1, 1, 1, 0, 1, 1, 1], [0, 1, 1, 1, \+
+0, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1], [1, 0, 0, 0, 1, 0, 0, 0], [0, 1
+, 1, 1, 0, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1], [0, 1, 1, 1, 0, 1, 1, 1
+]]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "Mref(L); Msim(L); M
+trans(L);" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 67 "Siendo reflexiva, sim\351trica y transitiva, la relaci\363n def
+inida por " }{TEXT 315 1 "L" }{TEXT -1 20 " es de equivalencia." }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 96 "Mirando l
+as filas primera y segunda de la matriz, se observa que la respuesta c
+orrecta es la b)." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 0 "" }}}}}{MARK "1" 0 }{VIEWOPTS 1 1 0 1 1 1803 }
+

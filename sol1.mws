@@ -1,0 +1,101 @@
+{VERSION 3 0 "IBM INTEL NT" "3.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 }{CSTYLE "" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 257 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 262 
+"" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 263 "" 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 }{CSTYLE "" -1 264 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 265 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 266 
+"" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 267 "" 1 14 0 0 0 0 0 
+0 0 0 0 0 0 0 0 }{CSTYLE "" -1 268 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+{CSTYLE "" -1 269 "" 0 14 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 
+270 "" 0 14 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 271 "" 1 14 0 0 
+0 0 0 0 0 0 0 0 0 0 0 }{CSTYLE "" -1 272 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 273 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 275 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 276 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 277 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 278 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 280 "" 1 14 0 0 0 0 0 0 2 0 0 0 0 0 0 }{CSTYLE "" -1 281 "" 0 1 0 
+0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 282 "" 1 14 0 0 0 0 0 0 0 0 0 
+0 0 0 0 }{CSTYLE "" -1 283 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "
+" -1 284 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 285 "" 0 1 0 
+0 0 0 0 1 0 0 0 0 0 0 0 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "Heading 1" 0 3 1 {CSTYLE "" -1 -1 "" 1 18 0 0 0 0 0 1 0 0 0 
+0 0 0 0 }1 0 0 0 8 4 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Output" 0 11 1 
+{CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 3 0 -1 -1 -1 0 0 
+0 0 0 0 -1 0 }{PSTYLE "" 11 12 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 }1 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Title" 0 18 
+1 {CSTYLE "" -1 -1 "" 1 18 0 0 0 0 0 1 1 0 0 0 0 0 0 }3 0 0 -1 12 12 
+0 0 0 0 0 0 19 0 }{PSTYLE "" 0 257 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 258 
+1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 0 0 -1 -1 -1 0 
+0 0 0 0 0 -1 0 }{PSTYLE "" 18 259 1 {CSTYLE "" -1 -1 "" 1 14 0 0 0 0 
+0 0 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 258 "" 0 "" {TEXT 280 19 "Matem\341tica Discreta
+" }}{PARA 257 "" 0 "" {TEXT 281 9 "2002-2003" }}{PARA 259 "" 0 "" 
+{TEXT 256 46 "Soluciones de los ejercicios de la Pr\341ctica 1:" }
+{TEXT -1 0 "" }{TEXT 257 0 "" }{TEXT -1 0 "" }}}{SECT 1 {PARA 3 "" 0 "
+" {TEXT 262 10 "Secuencias" }{TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 43 "sec1:=4,8,13,\{Pi,E,I\},seq([k,k+2],k=6..18);" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 263 3 "(1)" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "sec1[7];" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 0 "" }{TEXT 264 3 "(2)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 10 "'bien'$11;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 
+265 3 "(3)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 20 "seq('bien',i=
+0..10);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 266 3 "(4)" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "seq(x^3,x=1..10);" }}}}
+{SECT 1 {PARA 3 "" 0 "" {TEXT 267 6 "Listas" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "a:=seq(i,i=1..60):
+\ns:=2,3,4,5,t,y,j,a,a,l^2;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 268 3 "(1
+)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "lista1:=[s];" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "nops(lista1);" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 269 3 "(2)" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 21 "s2:=seq(i^2,i=1..30);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "lista2:=[s2];" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "
+" }{TEXT 270 3 "(3)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "s3:=
+op(lista[s]);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "s3[20];" }}
+}}{SECT 1 {PARA 3 "" 0 "" {TEXT 271 9 "Conjuntos" }}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 40 "s:=\{Luisa, Juan, Alicia, Pedro, Susana\};" }}
+}{PARA 12 "" 1 "" {TEXT -1 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 41 "t:=\{Pedro, Julian, Sebastian, Juan, Ana\};" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 36 "lista:=[Lunes,Martes,Sabado,Jueves];" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "s1:=g,e,y,d,e,r,f,y,f,d,e,k,
+y,e,f,g,h,d,y;" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 272 0 "" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 275 3 "(1)" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "s intersect t;s\\t;" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 273 3 "(2)" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 28 "subsop(3='Miercoles',lista);" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT 276 3 "(3)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+9 "s2:=\{s1\};" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "nops(s2);
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 277 3 "(4)" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "lista2:=[elem1,elem2,elem3];
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "[op(lista),op(lista2)];
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 278 3 "(5)" }{TEXT 
+-1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "a:=\{seq(x^2,x=0.
+.31)\};" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "b:=\{seq(x^3,x=0
+..10)\};" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "a intersect b;
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "nops(%);" }}}}{SECT 1 
+{PARA 3 "" 0 "" {TEXT 282 10 "Ejercicios" }}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 0 "" }{TEXT 284 3 "(1)" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 254 "restart:producto:=proc(L::list,a::posint,b::p
+osint)\nlocal S,i:\nS:=1:\nif b<=a then  print(error,b<=a);\nelif b>=n
+ops(L) then  print(error,b>=nops(L));       \nelse\n      for i from a
+ to b\n         do \n             S:=S*L[i]         \n         od:\nS;
+\nfi;\nend:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "producto([2,
+3,12,-1,5,8,Pi,sqrt(2)],3,7);" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 283 3 "
+(2)" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 158 "restart:lugares:=pr
+oc(L::list,a)\nlocal S,i:\nS:=[];\nfor i from 1 to nops(L)\n     do\n \+
+       if a=L[i] then\n          S:=[op(S),i];\n        fi;\n     od;
+\nS;\nend;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "lugares([1,2,
+3,1,2,5],1);" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 52 "lugares([lu
+nes,martes,martes,martes,jueves],martes);" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 0 "" }{TEXT 285 3 "(3)" }{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 229 "restart:cartesiano:=proc(A::set,B::set)\nloca
+l S,L,M,i,j:\nS:=[];\nL:=[op(A)];\nM:=[op(B)];\nfor i from 1 to nops(L
+)\n     do\n       for j from 1 to nops(M)\n         do \n            \+
+S:=\{op(S),[L[i],M[j]]\};\n         od;\n     od;\nS;\nend:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "cartesiano(\{1,2,3,2\},\{a,b
+,b\});" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "cartesiano(\{lune
+s,martes,martes,martes,jueves\},\{martes\});" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 4 "#fin" }}}}}{MARK "5" 0 }{VIEWOPTS 1 1 0 1 1 1803 
+}
